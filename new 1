@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> TEKS BERJALAN </title>
+</head>
+<body>
+<marquee direction=”right”> Teks Ini Berjalan Ke Kanan </marquee>
+<marquee direction=”left”> Teks Ini Berjalan Ke Kiri</marquee>
+<body>
+<html>
